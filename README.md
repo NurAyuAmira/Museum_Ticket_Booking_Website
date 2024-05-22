@@ -2,6 +2,7 @@
 - Subject: CCS6344-DATABASE AND CLOUD SECURITY
 - Lecturer Name:  Dr. Navaneethan A/L C. Arjuman
 - Group Number: 2
+- Report Link: https://github.com/NurAyuAmira/Museum_Ticket_Booking_Website/blob/main/Group2_Assignment1.pdf
 
 
 # Requirements of Our System
