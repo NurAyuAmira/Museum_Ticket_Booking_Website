@@ -22,4 +22,10 @@
 11. OTP Generation - Using PHPMailer
 12. PHPMailer Configuration - Using SMTP with proper authentication
 13. Backup and Recovery - Ensures proper creation and storage of backup files.
-   
+
+# User Dashboard
+![image](https://github.com/NurAyuAmira/Museum_Ticket_Booking_Website/assets/94117067/584b0e1b-eec5-4b6d-8742-19cdfdeae697)
+
+# Admin Dashboard
+![image](https://github.com/NurAyuAmira/Museum_Ticket_Booking_Website/assets/94117067/d89e8b58-b910-4c8d-97c2-94a0473a2013)
+
