@@ -9,10 +9,34 @@
 2. Muhammad Dhiyaul Naufal bin Zainuddin 1201201537
 3. Mannoj Sakthivel 1221303085
 
-# Language of our System
-1. HTML, CSS &  Javascript - Front End
-2. PHP - Backend
-3. PHPMailer - OTP
+# Requirement of our System
+1. XAMPP - Server/Web
+2. phpMyAdmin - SQL Server
+3. HTML, CSS &  Javascript - Front End
+4. PHP - Backend
+5. PHPMailer - OTP
+
+# Features in our system
+## USER:
+1. Register
+2. Login
+3. Forgot Password using OTP
+4. Manage Profile - Update Username & Email / Change Password / Delete Profile
+5. User Dashboard - Details Exhibits, Reserve Ticket Form.
+6. Payment
+7. Order History
+8. Logout
+
+## ADMIN:
+1. Register
+2. Login
+3. Forgot Password using OTP
+4. Admin Dashboard - User details / Reservation Details / Payment Details
+5. Manage Exhibit - Add New Exhibit / Edit Current Exhibit / Delete Exhibits
+6. View Activity Log User
+7. View Monitor Traffic User
+8. Backup Database and Whole System
+9. Logout
 
 # Steps to run this system
 1. Download the zip folder for this code. Then, extract the Zip Folder. Rename the folder as "museum".
@@ -28,9 +52,7 @@
 5. Import the sql file from the folder "museum.sql".
    ![image](https://github.com/NurAyuAmira/Museum_Ticket_Booking_Website/assets/94117067/0585ebfc-7d20-46ab-8d12-dba7bad0f459)
 
-
-
-6. For testing the user, you can start with User Register Page http://localhost/museum/register.php
+6. For testing the user, you can start with User Register Page http://localhost/museum/register.php. 
    
 7. For testing the admin, you can start with Admin Register Page http://localhost/museum/admin_register.php
 
