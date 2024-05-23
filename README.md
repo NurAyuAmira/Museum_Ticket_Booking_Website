@@ -25,8 +25,9 @@
 4. Go to this link http://localhost/phpmyadmin/index.php?route=/server/databases and create database name "museum"
    ![image](https://github.com/NurAyuAmira/Museum_Ticket_Booking_Website/assets/94117067/251d6de8-4f9e-4ba9-b878-9aad7edb36e3)
 
-![image](https://github.com/NurAyuAmira/Museum_Ticket_Booking_Website/assets/94117067/0585ebfc-7d20-46ab-8d12-dba7bad0f459)
 5. Import the sql file from the folder "museum.sql".
+   ![image](https://github.com/NurAyuAmira/Museum_Ticket_Booking_Website/assets/94117067/0585ebfc-7d20-46ab-8d12-dba7bad0f459)
+
 
 
 6. For testing the user, you can start with User Register Page http://localhost/museum/register.php
