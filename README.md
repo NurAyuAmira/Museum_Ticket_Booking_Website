@@ -15,7 +15,7 @@
 3. PHPMailer - OTP
 
 # Steps to run this system
-1. Download the zip file for this code. Then, extract the Zip Folder. Rename the folder as "museum".
+1. Download the zip folder for this code. Then, extract the Zip Folder. Rename the folder as "museum".
 2. Insert the Folder into this path of your Desktop : C:\xampp\htdocs
    ![image](https://github.com/NurAyuAmira/Museum_Ticket_Booking_Website/assets/94117067/2be169db-6e78-47ce-9f84-89cefde00207)
 
