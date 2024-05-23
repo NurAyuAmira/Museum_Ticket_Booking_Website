@@ -26,7 +26,7 @@
    ![image](https://github.com/NurAyuAmira/Museum_Ticket_Booking_Website/assets/94117067/251d6de8-4f9e-4ba9-b878-9aad7edb36e3)
 
 5. Import the sql file from the folder "museum.sql".
-   ![image](https://github.com/NurAyuAmira/Museum_Ticket_Booking_Website/assets/94117067/88253bad-73a5-4b0f-8fe7-c59af9570d95)
+![image](https://github.com/NurAyuAmira/Museum_Ticket_Booking_Website/assets/94117067/0585ebfc-7d20-46ab-8d12-dba7bad0f459)
 
 6. For testing the user, you can start with User Register Page http://localhost/museum/register.php
    
