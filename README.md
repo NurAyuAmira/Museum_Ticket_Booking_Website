@@ -2,7 +2,8 @@
 - Subject: CCS6344-DATABASE AND CLOUD SECURITY
 - Lecturer Name:  Dr. Navaneethan A/L C. Arjuman
 - Report Link: https://github.com/NurAyuAmira/Museum_Ticket_Booking_Website/blob/main/Group2_Assignment1.pdf
-- Youtube Whole Workflow system: [https://youtu.be/8PvGNi1_FBA](https://youtu.be/4yXjNV-xZIM)
+- Youtube Group Presentation: https://www.youtube.com/watch?v=4yXjNV-xZIM&t=190s
+- Youtube Whole Workflow system: https://www.youtube.com/watch?v=8PvGNi1_FBA&t=397s
 
 # Group 2 Member Details
 1. Nur Ayu Amira Binti Idris 1201200722
